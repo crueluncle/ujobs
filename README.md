@@ -18,4 +18,4 @@
 
 # 部署方案
 
-![image](https://github.com/crueluncle/ujobs/tree/master/res/a.jpg)
+![alt text](/tree/master/res/a.jpg "Title")
