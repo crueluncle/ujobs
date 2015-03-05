@@ -18,4 +18,4 @@
 
 # 部署方案
 
-![alt text](/tree/master/res/a.jpg "Title")
+![image]()
