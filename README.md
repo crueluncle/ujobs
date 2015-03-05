@@ -13,8 +13,9 @@
 * 如何跨平台，如何固化并复用运维任务?
 
 # 逻辑架构
-
-https://github.com/saltstack/halite
+参考saltstack/halite项目
+* https://github.com/saltstack/halite
 
 # 部署方案
 
+![image](https://github.com/crueluncle/ujobs/res/a.jpg)
