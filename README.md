@@ -18,4 +18,4 @@
 
 # 部署方案
 
-![image](https://github.com/crueluncle/ujobs/res/a.jpg)
+![image](https://github.com/crueluncle/ujobs/tree/master/res/a.jpg)
